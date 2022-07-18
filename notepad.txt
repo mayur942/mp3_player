@@ -1,0 +1,21 @@
+  
+assignment 2
+music player
+
+no of song currently playing should be displayed
+seek button
+volume button
+music name
+artist name
+json should be used to store the mp3 file 
+
+
+welcome page
+play button on click should go on a song 
+play next previous button
+song should play
+on right side it should display previous song name 
+on left side it should display next song name
+seek bar
+volume bar
+

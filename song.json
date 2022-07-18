@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "songName": "Sugar",
+        "artistName": "Maroon 5",
+        "songBgImage": "./Sugar_Maroon5.jpeg",
+        "songSrc": "./Maroon_5_-_Sugar.mp3"
+    },
+    {
+        "id":2,
+        "songName": "Demons",
+        "artistName": "Imagine Dragon",
+        "songBgImage": "./Demons_ImagineDragons.jpg",
+        "songSrc": "./Imagine Dragons - Demons.mp3"
+    },
+    {
+        "id":3,
+        "songName":"South Of The Border",
+        "artistName":"Ed Sheeran",
+        "songBgImage":"./SouthOfTheBorder.jpg",
+        "songSrc":"./Ed Sheeran-South of the Border.mp3"
+    },
+    {
+        "id":4,
+        "songName":"London Boy",
+        "artistName":"Taylor Swift",
+        "songBgImage":"./LondonBoy.jpg",
+        "songSrc":"./Taylor Swift - London Boy.mp3"
+    },
+    {
+        "id":5,
+        "songName":"Hey Jude",
+        "artistName":"The Beatles",
+        "songBgImage":"./HeyJude.jpg",
+        "songSrc":"./The Beatles - Hey Jude.mp3"
+    },
+    {
+        "id":6,
+        "songName":"Boulevard Of Broken Dreams",
+        "artistName":"Green Day",
+        "songBgImage":"./BoulevardOfBrokenDreams.jpg",
+        "songSrc":"./Green Day - Boulevard Of Broken Dreams.mp3"
+    },
+    {
+        "id":7,
+        "songName":"Finally Found You",
+        "artistName":"Enrique Iglesias",
+        "songBgImage":"FinallyFoundYou.jpg",
+        "songSrc":"Enrique Iglesias - Finally Found You.mp3"
+    },
+    {
+        "id":8,
+        "songName":"Love The Way You Lie",
+        "artistName":"Eminem",
+        "songBgImage":"LoveTheWayYouLie.jpg",
+        "songSrc":"Eminem - Love The Way You Lie.mp3"
+    },
+    {
+        "id":9,
+        "songName":"Just The Way You Are",
+        "artistName":"Bruno Mars",
+        "songBgImage":"JustTheWayYouAre.jpg",
+        "songSrc":"Bruno Mars - Just The Way You Are.mp3"
+    },
+    {
+        "id":10,
+        "songName":"Perfect",
+        "artistName":"Ed Sheeran",
+        "songBgImage":"Perfect.jpg",
+        "songSrc":"Ed Sheeran - Perfect.mp3"
+    }
+]

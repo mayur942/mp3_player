@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Play</title>
+</head>
+
+
+
+<body id="pg2">
+    <div id="main_panel"><img id="cover">
+        <!-- <audio controls>
+            <source src="./Maroon_5_-_Sugar.mp3">
+        </audio> -->
+    </div>
+    <div id="name-panel">
+        <p id="SN"></p>
+        <p id="AN"></p>
+    </div>
+    <div class="slider">
+        <input type="range" min="1" max="1000" value="0">
+    </div>
+    <div id="main_panel">
+        <audio id="Music">
+            <source src="" type="audio/mpeg">
+        </audio>
+
+        <a href="./index.html"><button class="dim"><img src="./home.png" width="25px" height="25px"></button></a>
+        <button class="dim"><img src="./shuffle.png" width="25px" height="25px"></button>
+        <button class="dim" onclick="previousmusic()"><img src="./arrow-alt-to-left.png" width="25px"
+                height="25px"></button>
+        <button class="dim" onclick="playmusic()"><img src="./play.png" width="25px" height="25px"></button>
+        <button class="dim" onclick="pausemusic()"><img src="./pause.png" width="25px" height="25px"></button>
+        <button class="dim" onclick="nextmusic()"><img src="./arrow-alt-to-right.png" width="25px"
+                height="25px"></button>
+        <button class="dim" onclick="manage()"><img src="./volume.png" width="25px" height="25px"></button>
+        <button class="dim"><img src="./list.png" width="25px" height="25px"></button>
+        <select>
+            <option id="options">
+                
+            </option>
+        </select>
+    </div>
+    <script src="./index.js"></script>
+
+</body>
+
+</html> 
